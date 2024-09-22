@@ -1,0 +1,250 @@
+nav {
+    width: 100%;
+    display: inline-block;
+    background-image: linear-gradient(to left, #0606b4, #1717f0, #6A5ACD);
+
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.lupa{
+    float: right;
+    color: gray;
+    font-size: 15px;
+    padding: 10px;
+
+}
+hr{
+    width:50%;
+}
+
+#titmenu {
+
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown:hover .drop {
+
+    display: block;
+}
+
+.drop {
+    display: none;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.menu:hover {
+    background-color: yellow;
+}
+
+
+.section {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: -10px;
+    color: gray;
+    font-style: italic;
+
+}
+
+.paragrafo1,
+.paragrafo2 {
+    font-size: 20px;
+}
+
+hr {
+    color: #0606b4;
+}
+
+#discos {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+
+.imgdisco {
+    width: 150px;
+    height: auto;
+}
+
+.paragrafo {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#disc2 {
+    margin-right: 25%;
+    margin-left: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+#tour {
+    background-color: black;
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+    margin-right: 20px;
+
+}
+
+#bilhete {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#bil {
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+span {
+    margin: 10px;
+    padding-top: 20px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#ingresso {
+    text-align: right;
+    margin-left: 60%;
+    color: green;
+}
+
+
+
+.Esgotado {
+    color: red;
+    margin-left: 10px;
+
+}
+h6{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tourpic{
+    display: flex;
+    display: inline-block;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    margin-left: 40px;
+    
+    
+}
+
+
+.imgbilhete {
+    width: 150px;
+    height: auto;
+
+}
+#divtour{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.section2 {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+
+}
+.section2 h1{
+    color: white;
+    box-shadow: #0606b4;
+    font-family: 'Courier New', Courier, monospace;  
+    font-size: 40px;
+
+}
+#contact{
+    margin: 10px 10px 10px;
+    padding: 5px;
+    background-color: gray;
+}
+.pcontact{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif,cursive;
+   
+}
+#contact2{
+    color: #0606b4;
+    font-size: 15x;
+    font-family: Verdana, Geneva, Tahoma, sans-serif,cursive;
+    padding: 5px;
+    margin-left: 20%;
+}
+.form1{
+     display: flex;
+    display: inline;
+    
+}
+#buttonsub{
+    background-color: #0606b4;
+    color: white;
+    font-size: 15px;
+    margin-left: 29%;
+
+}
+#buttonsub:hover{
+    background-color: gray;
+}
+textarea{
+    font-size: 31px;
+}
+footer{
+    margin-top: 5%;
+    text-align: center;
+
+}
+.fa-brands{
+    font-size: 15px;
+    color: gold;
+}
+
+
+
